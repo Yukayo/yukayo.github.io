@@ -55,6 +55,8 @@ window.addEventListener('DOMContentLoaded', event => {
             .then(markdown => {
                 const html = marked.parse(markdown);
                 document.getElementById(name + '-md').innerHTML = html;
+                // 渲染 emoji 表情
+                twemoji.parse(document.getElementById(name + '-md'));
             }).then(() => {
                 // MathJax
                 MathJax.typeset();
