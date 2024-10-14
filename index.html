@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="senli1073" />
+    <meta name="author" content="yukayo" />
     <title id="title"></title>
 
     <!-- Icon -->
@@ -91,13 +91,19 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
+                        <a class="nav-link me-lg-3" href="#page-top">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                        <a class="nav-link me-lg-3" href="#news">News</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                        <a class="nav-link me-lg-3" href="#publications">Publications</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#academic">Academic Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#awards">Awards and Honors</a>
                     </li>
 
                 </ul>
@@ -106,7 +112,7 @@
     </nav>
 
     <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
+    <section class="top-section" style="background-image: url('static/assets/img/background.jpg');">
         <div class="top-section-content">
             <div class="container px-5">
                 <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
@@ -118,9 +124,10 @@
     <!-- Photo -->
     <div class="container px-5">
         <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.png">
+            <img class="shadow" src="static/assets/img/photo.png" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
         </div>
     </div>
+
     <!-- Photo -->
     
     <!-- Home -->
@@ -135,29 +142,57 @@
     </section>
     <!-- Home -->
 
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <!-- News -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="news">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+                <h2 id="news-subtitle" class="news-header" style="color: #FF5733;">
+                    <i class="bi bi-newspaper" style="color: currentColor;"></i>&nbsp;News
+                </h2>
             </header>
-            <div class="main-body" id="publications-md"></div>
-
+            <div class="main-body" id="news-md"></div>
         </div>
     </section>
-    <!-- Publications  -->
+
+    <!-- Publications -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="publications">
+        <div class="container px-5">
+            <header>
+                <h2 id="publications-subtitle" class="publications-header" style="color: #3498DB;">
+                    <i class="bi bi-file-text-fill" style="color: currentColor;"></i>&nbsp;Publications
+                    <span style="font-size: smaller; color: #000;">(* denotes the corresponding author)</span> 
+                    <a href="https://scholar.google.com/citations?user=k3R7EH8AAAAJ" style="color: #3498DB; font-size: smaller;">
+                    [Google Scholar]
+                </a>
+                </h2>
+            </header>
+            <div class="main-body" id="publications-md"></div>
+        </div>
+    </section>
+
+    <!-- Academic Services -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="academic">
+        <div class="container px-5">
+            <header>
+                <h2 id="academic-subtitle" class="academic-header" style="color: #28B463;">
+                    <i class="bi bi-journals" style="color: currentColor;"></i>&nbsp;Academic Services
+                </h2>
+            </header>
+            <div class="main-body" id="academic-md"></div>
+        </div>
+    </section>
 
     <!-- Awards -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
+                <h2 id="awards-subtitle" class="awards-header" style="color: #F4D03F;">
+                    <i class="bi bi-award-fill" style="color: currentColor;"></i>&nbsp;Awards and Honors
+                </h2>
             </header>
             <div class="main-body" id="awards-md"></div>
-
         </div>
     </section>
-    <!-- Awards -->
 
 
     <!-- Footer-->
@@ -165,9 +200,9 @@
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/senli1073">Github</a>
+                <a id="github-link" href="https://github.com/Yukayo">Github</a>
                 <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+                <a id="license-link" href="https://github.com/Yukayo/yukayo.github.io/blob/main/LICENSE">License</a>
             </div>
         </div>
     </footer>

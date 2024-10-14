@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- 2024 Top 10 out of the 100+ participating teams in [HuMob'24 @SIGSPATIAL](https://wp.nyu.edu/humobchallenge2024/)
 
-- Freshman Academic Scholarship, 2022.
+- 2024 NeurIPS 2024 Financial Aid Award.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 2023 ACM Sigspatial'23 Travel Grant Awards.
 
-- First-prize Enterprise Scholarship, 2021.
+- 2022-2025 PhD Fellow of the SPRING GX Program.
 
-- First-prize Academic Scholarship, 2019.
+- 2022 Outstanding Graduate (master) of Beihang University.
