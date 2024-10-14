@@ -1,10 +1,11 @@
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Github-Yukayo-purple?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FYukayo">
+[<img alt="Static Badge" src="https://img.shields.io/badge/Github-Yukayo-purple?style=flat&logo=github">](https://github.com/Yukayo)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-Xiaohang%20Xu-blue?style=flat&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com.hk%2Fcitations%3Fuser%3Dk3R7EH8AAAAJ">
+[<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-Xiaohang%20Xu-blue?style=flat&logo=googlescholar">](https://scholar.google.com.hk/citations?user=k3R7EH8AAAAJ)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Steam-%E8%87%AA%E5%8A%A8%E7%82%B9%E7%82%AE%E6%9C%BA-red?style=flat&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2F499378705%2F">
+[<img alt="Static Badge" src="https://img.shields.io/badge/Steam-%E8%87%AA%E5%8A%A8%E7%82%B9%E7%82%AE%E6%9C%BA-red?style=flat&logo=steam">](https://steamcommunity.com/id/499378705)
+
 
 
 Hi! I am Xiaohang Xu, a Ph.D candidate in the Graduate School of Information Science and Technology, The University of Tokyo. I like Anime and Dota 2 (crusader level,中军菜鸡).
