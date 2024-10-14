@@ -1,7 +1,3 @@
-[<img alt="Static Badge" src="https://img.shields.io/badge/Github-Yukayo-purple?style=flat&logo=github" style="display:inline-block;" \>](https://github.com/Yukayo)
-[<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-Xiaohang%20Xu-blue?style=flat&logo=googlescholar" style="display:inline-block;" \>](https://scholar.google.com.hk/citations?user=k3R7EH8AAAAJ)
-[<img alt="Static Badge" src="https://img.shields.io/badge/Steam-%E8%87%AA%E5%8A%A8%E7%82%B9%E7%82%AE%E6%9C%BA-red?style=flat&logo=steam" style="display:inline-block;" \>](https://steamcommunity.com/id/499378705)
-
 Hi! I am Xiaohang Xu, a Ph.D candidate in the Graduate School of Information Science and Technology, The University of Tokyo. I like Anime and Dota 2 (crusader level,中军菜鸡).
 
 #### Contact
