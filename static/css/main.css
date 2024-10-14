@@ -94,12 +94,7 @@ section .main-body{
 }
 
 #top-section-bg-text {
-    font-size: 2.5rem; /* 调整字体大小 */
-    line-height: 1.2;  /* 调整行高 */
-}
-
-.top-section-content {
-    padding: 50px 0;   /* 确保容器有足够的高度 */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* 添加黑色阴影，提高对比度 */
 }
 
 
