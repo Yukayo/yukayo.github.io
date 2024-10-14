@@ -5,6 +5,10 @@
     --h-title-color:#3948d2;
 }
 
+a {
+    color: #84BCCD; /* 指定链接默认颜色 */
+}
+
 .header {
     border-bottom: solid 2px var;
     z-index: 10000;
