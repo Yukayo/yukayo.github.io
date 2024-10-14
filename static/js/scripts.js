@@ -47,21 +47,34 @@ window.addEventListener('DOMContentLoaded', event => {
         .catch(error => console.log(error));
 
 
+    // 替换 emoji 符号的简单函数
+    function replaceEmojis(markdown) {
+        return markdown
+            .replace(/:tada:/g, '🎉')
+            .replace(/:smile:/g, '😄')
+            .replace(/:thumbsup:/g, '👍');
+    }
+
     // Marked
     marked.use({ mangle: false, headerIds: false })
     section_names.forEach((name, idx) => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())
             .then(markdown => {
+                const replacedMarkdown = replaceEmojis(markdown);
                 const html = marked.parse(markdown);
                 document.getElementById(name + '-md').innerHTML = html;
-                // 渲染 emoji 表情
-                twemoji.parse(document.getElementById(name + '-md'));
+
             }).then(() => {
                 // MathJax
                 MathJax.typeset();
             })
             .catch(error => console.log(error));
     })
+
+    // Load markdown for all sections and render emoji
+    section_names.forEach(name => {
+        loadMarkdown(name);
+    });
 
 }); 
