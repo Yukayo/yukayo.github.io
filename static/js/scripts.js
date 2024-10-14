@@ -62,7 +62,7 @@ window.addEventListener('DOMContentLoaded', event => {
             .then(response => response.text())
             .then(markdown => {
                 const replacedMarkdown = replaceEmojis(markdown);
-                const html = marked.parse(markdown);
+                const html = marked.parse(replacedMarkdown);
                 document.getElementById(name + '-md').innerHTML = html;
 
             }).then(() => {
@@ -71,10 +71,5 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
-
-    // Load markdown for all sections and render emoji
-    section_names.forEach(name => {
-        loadMarkdown(name);
-    });
 
 }); 
