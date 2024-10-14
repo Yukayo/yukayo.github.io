@@ -5,6 +5,12 @@
     --h-title-color:#3948d2;
 }
 
+a img {
+    border: none; /* 移除图片的边框 */
+    text-decoration: none; /* 移除图片的下划线 */
+    vertical-align: middle; /* 确保图片和文字对齐 */
+}
+
 a {
     color: #84BCCD; /* 指定链接默认颜色 */
 }
