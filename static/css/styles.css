@@ -218,6 +218,7 @@ blockquote {
 b,
 strong {
   font-weight: bolder;
+  text-decoration: underline;
   font-family: Arial, sans-serif;
 }
 
