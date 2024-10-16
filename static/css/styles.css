@@ -217,7 +217,8 @@ blockquote {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
 }
 
 small, .small {
