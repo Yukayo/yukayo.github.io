@@ -1,3 +1,5 @@
+- [VLDB25] Chuang Yang, Renhe Jiang, <strong>Xiaohang Xu</strong>, Chuan Xiao, Kaoru Sezaki, "SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity", Proceedings of the VLDB Volume 18 (VLDB), 2025.
+
 - [[NeurIPS24]](https://nips.cc/virtual/2024/poster/93152) <strong>Xiaohang Xu</strong>, Renhe Jiang, Chuang Yang, Zipei Fan, Kaoru Sezaki, "Taming the Long Tail in Human Mobility Prediction",  Proceedings of the 38th International Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
 - [SIGSPATIAL24 (workshop)] Peizhi Tang, Chuang Yang, Tong Xing, <strong>Xiaohang Xu</strong>, Renhe Jiang, Kaoru Sezaki, "Instruction-Tuning Llama-3-8B Excels in City-Scale Mobility Prediction", Proceedings of the 2nd ACM SIGSPATIAL International Workshop on the Human Mobility Prediction Challenge, 2024.
