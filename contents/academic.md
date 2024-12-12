@@ -2,6 +2,8 @@
 
 - ICLR Program Committee Member [2025](https://iclr.cc/)
 
+- ICML Program Committee Member [2025](https://icml.cc/)
+
 - AISTATS Program Committee Member [2025](https://aistats.org/aistats2025/)
 
 - Reviewer for [IEEE Network](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)
