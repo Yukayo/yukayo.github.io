@@ -1,4 +1,4 @@
-- [AAAI26] [[arXiv]]() Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, <strong>Xiaohang Xu</strong>*, Hao Henry Wang, "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents", Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
+- [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.10705) Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, <strong>Xiaohang Xu</strong>*, Hao Henry Wang, "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents", Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
 
 - [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.07074) Tingyu Jiang, Shen Li, Yiyao Song, Lan Zhang, Hualei Zhu, Yuan Zhao, <strong>Xiaohang Xu</strong>*, Kenjiro Taura, Hao Henry Wang"
 Importance-Aware Data Selection for Efficient LLM Instruction Tuning", Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (Oral)
