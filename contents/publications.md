@@ -1,7 +1,6 @@
 - [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.10705) Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, <strong>Xiaohang Xu</strong>*, Hao Henry Wang, "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents", Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
 
-- [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.07074) Tingyu Jiang, Shen Li, Yiyao Song, Lan Zhang, Hualei Zhu, Yuan Zhao, <strong>Xiaohang Xu</strong>*, Kenjiro Taura, Hao Henry Wang"
-Importance-Aware Data Selection for Efficient LLM Instruction Tuning", Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (Oral)
+- [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.07074) Tingyu Jiang, Shen Li, Yiyao Song, Lan Zhang, Hualei Zhu, Yuan Zhao, <strong>Xiaohang Xu</strong>*, Kenjiro Taura, Hao Henry Wang, "Importance-Aware Data Selection for Efficient LLM Instruction Tuning", Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (Oral)
 
 - [VLDB25](https://dl.acm.org/doi/abs/10.14778/3705829.3705853) [[arXiv]](https://arxiv.org/abs/2410.14629) Chuang Yang, Renhe Jiang, <strong>Xiaohang Xu</strong>, Chuan Xiao, Kaoru Sezaki, "SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity", Proceedings of the VLDB Volume 18 (VLDB), 2025.
 
