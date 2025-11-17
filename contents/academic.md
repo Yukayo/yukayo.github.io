@@ -20,4 +20,6 @@
 
 - Reviewer for [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics)
 
+- Reviewer for [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+
 - Subreviewer for CIKM [2023](https://uobevents.eventsair.com/cikm2023/)
