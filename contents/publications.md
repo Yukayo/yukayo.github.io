@@ -1,3 +1,9 @@
+- [ICLR26] Yusong Wang, Chuang Yang, Jiawei Wang, <strong>Xiaohang Xu</strong>, Jiayi Xu, Dongyuan Li, Chuan Xiao, Renhe Jiang, "ELLMob: Event-Driven Human Mobility Generation with Self-Aligned LLM Framework", The Fourteenth International Conference on Learning Representations, 2026.
+
+- [WWW26] Xianjie Wu, <strong>Xiaohang Xu</strong>, Tingyu Jiang, Jian Yang, Di	Liang, Xianfu Cheng, Zhenhe	Wu, Linzheng Chai, Wei Zhang, Jiaheng Liu, Ge Zhang, Bob Simons, Tongliang Li, Zhoujun Li, "MMTableBench: A Multi-level Multimodal Benchmark for Reasoning and Layout Complexity in Table QA", Proceedings of the 2026 world wide web conference, 2026.
+
+- [EACL26] [[arXiv]](https://arxiv.org/abs/2503.21679) Yunze Xiao, Tingyu He, Lionel Z. Wang, Yiming Ma, Xingyu Song, <strong>Xiaohang Xu</strong>, Mona Diab, Irene Li, Ka Chung Ng, "JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community", Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics, 2026.
+
 - [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.10705) Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, <strong>Xiaohang Xu</strong>*, Hao Henry Wang, "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents", Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
 
 - [AAAI26] [[arXiv]](https://arxiv.org/abs/2511.07074) Tingyu Jiang, Shen Li, Yiyao Song, Lan Zhang, Hualei Zhu, Yuan Zhao, <strong>Xiaohang Xu</strong>*, Kenjiro Taura, Hao Henry Wang, "Importance-Aware Data Selection for Efficient LLM Instruction Tuning", Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (Oral)
