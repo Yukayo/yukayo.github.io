@@ -12,6 +12,8 @@
 
 - AISTATS Program Committee Member [2025](https://aistats.org/aistats2025/), [2026](https://aistats.org/aistats2026/)
 
+- Reviewer for [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+
 - Reviewer for [IEEE Network](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)
 
 - Reviewer for [IEEE Transactions on Affective Computing (TAFFC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)
