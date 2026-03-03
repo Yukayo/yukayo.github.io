@@ -4,7 +4,7 @@
 
 - WWW Program Committee Member [2026](https://www2026.thewebconf.org/)
 
-- MM Program Committee Member [2025](https://acmmm2025.org/)
+- MM Program Committee Member [2025](https://acmmm2025.org/), [2026](https://2026.acmmm.org/)
 
 - ICLR Program Committee Member [2025](https://iclr.cc/Conferences/2025)
 

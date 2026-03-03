@@ -1,4 +1,4 @@
-[2026/02/27] I got my first project funding. My project application has been accepted by JSPS Grant-in-Aid for Early-Career Scientists (JSPS 若手研究) :confetti_ball: :trophy: :partying_face:
+[2026/02/27] I got my first project funding. My project application has been accepted by JSPS Grant-in-Aid for Early-Career Scientists (JSPS 若手研究) 🎊 🏆 🥳
 
 [2026/01/26] One paper has been accepted by ICLR 2026.
 
