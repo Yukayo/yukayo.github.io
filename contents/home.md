@@ -1,4 +1,6 @@
-Hi! I am Xiaohang Xu, a Postdoc researcher in the [Taura lab](https://www.eidos.ic.i.u-tokyo.ac.jp/), Graduate School of Information Science and Technology, The University of Tokyo. I like Anime and Dota 2 (crusader level,中军菜鸡).
+Hi! I am Xiaohang Xu, a Postdoc researcher in the [Taura lab](https://www.eidos.ic.i.u-tokyo.ac.jp/), Graduate School of Information Science and Technology, The University of Tokyo. I like Anime and Dota 2 (crusader level, 中军菜鸡).
+
+I am seeking a Japan-based **Research Assistant (RA)** with overlapping research interests. Due to budget constraints, compensation is limited to a Master's student rate, but both Master's and PhD students who find this acceptable are encouraged to reach out. Please note that international students must hold **a valid part-time work permit (資格外活動許可)**.
 
 #### Contact
 xhxu[at]g.ecc.u-tokyo.ac.jp
